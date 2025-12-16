@@ -1,16 +1,72 @@
-# React + Vite
+# Momentum — SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-conversion SaaS landing page built with a focus on clarity, performance, and user experience.  
+Designed to reflect real-world startup standards with clean UI, responsive layouts, and subtle animations.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+👉 [https://your-project-name.vercel.app](https://saa-s-landing-page-wheat.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
+<img width="1831" height="875" alt="image" src="https://github.com/user-attachments/assets/8a02752c-cc8e-4d11-aab9-4a14608e3577" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- Clean and modern SaaS UI
+- Fully responsive (desktop, tablet, mobile)
+- High-conversion layout and CTA structure
+- Pricing plans with monthly / yearly toggle
+- FAQ accordion for better user clarity
+- Subtle GSAP animations for smooth interactions
+- Optimized component-based architecture
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
+- **React / Next.js**
+- **Tailwind CSS**
+- **GSAP**
+- **Zustand** (for UI state management)
+- **Vercel** (deployment)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Sections Included
+- Hero Section
+- Features
+- How It Works
+- Pricing
+- FAQ
+- Footer
+
+## 📦 Installation & Setup
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/SaaS-Landing-Page.git
+Install dependencies:
+
+npm install
+
+
+Run locally:
+
+npm run dev
+
+
+Build for production:
+
+npm run build
+
+🎯 Purpose of This Project
+
+This project was built as a portfolio-ready frontend showcase, demonstrating:
+
+UI/UX decision-making
+
+Component structure
+
+Responsive design
+
+Modern frontend tooling
+
+Client-ready presentation quality
+
+📄 License
+
+This project is for educational and portfolio purposes.
